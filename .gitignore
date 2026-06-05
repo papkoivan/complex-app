@@ -1,2 +1,16 @@
-node_modules
-.idea
+  # Dependencies
+  node_modules
+
+  # IDE
+  .idea
+  .vscode
+
+  # Environment variables
+  .env
+  .env.local
+  .env.*.local
+
+  # Build output
+  build
+  dist
+  client/build
